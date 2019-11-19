@@ -9,7 +9,7 @@
 As github mastering markdowns tutorial said: 
 >Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.
 
-For example here a [link to The Verge!](http://theverge.com)
+For example here a link to [The Verge!](http://theverge.com)
 
 What us a growth mindset?  In my humble opinion its an ideealogy that at its most basic principle encourages education through rigourous trial and error.  Throughout this first day, I have plenty of examples of this.
 
