@@ -1,3 +1,9 @@
+##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+...snip...    
+<a name="headers"/>
+## Headers
 # **Learning Journal November 18, 2019**
 <p>Lets see I basically learned that there are many ways using markdown as "a way to style text on the web."  You can add images, links, order things.</p> 
 As github mastering markdowns tutorial said: 

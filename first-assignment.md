@@ -1,3 +1,11 @@
+##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+...snip...    
+<a name="headers"/>
+## Headers
+*2
+
 # **Learning Journal November 18, 2019**
 Lets see I basically learned that there are many ways using markdown as "a way to style text on the web."  You can add images, links, order things 
 As github mastering markdowns tutorial said: 
@@ -14,3 +22,6 @@ We are constantly reminded of why a growth minset is so important in our learnin
 * I have constantly been having to check my characters in my code to make sure I am running the right processes in the terminal.  The color coding has been helpful in some of the writing.
   
 * The feeling of helping others through your own failures is another example of reminding yourself the importance.
+
+
+Day 2
