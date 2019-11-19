@@ -1,17 +1,19 @@
+<body>
+
 ##### Table of Contents  
 [Headers](#headers)  
 [Emphasis](#emphasis)  
 ...snip...    
 <a name="headers"/>
 ## Headers
-*2
+This is an example of a header.  I guess I should get to the details.
 
 # **Learning Journal November 18, 2019**
 Lets see I basically learned that there are many ways using markdown as "a way to style text on the web."  You can add images, links, order things 
 As github mastering markdowns tutorial said: 
 >Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.
 
-For example here a [link to The Verge!](http://theverge.com)
+For example here a [link to The Verge!](http://theverge.com)  I'm a tech nerd and its a great website to ggek out at.  Also I think their design is always top notch and worth checking out some of the design elements they like to use.
 
 What us a growth mindset?  In my humble opinion its an ideealogy that at its most basic principle encourages education through rigourous trial and error.  Throughout this first day, I have plenty of examples of this.
 
@@ -23,5 +25,7 @@ We are constantly reminded of why a growth minset is so important in our learnin
   
 * The feeling of helping others through your own failures is another example of reminding yourself the importance.
 
+<a name="emphasis"/>
+Lets see what this does
 
 Day 2
