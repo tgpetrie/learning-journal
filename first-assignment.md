@@ -3,7 +3,7 @@
 ##### Table of Contents  
 [Headers](#headers)  
 [Emphasis](#emphasis)  
-...snip...    
+
 <a name="headers"/>
 ## Headers
 This is an example of a header.  I guess I should get to the details.
